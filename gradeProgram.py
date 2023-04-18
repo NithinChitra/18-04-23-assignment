@@ -1,4 +1,4 @@
-marks=int(input("Enter marks obtained by student:))
+marks=int(input("Enter marks obtained by student:"))
 if marks>=95:
     grade='O'
 elif marks>=85:
